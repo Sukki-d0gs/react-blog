@@ -1,2 +1,5 @@
-# react-blog
-A simple react blog
+### `npm i`
+To install dependencies for this project
+
+### `npm start`
+To start project in development mode

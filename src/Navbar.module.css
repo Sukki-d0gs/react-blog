@@ -1,0 +1,10 @@
+.createButton {
+    border: 1px solid black;
+    transition-duration: 500ms;
+}
+
+.createButton:hover {
+    color: white !important;
+    border: 1px solid white;
+    background-color: #00FFC5FF;
+}
